@@ -1,9 +1,9 @@
 class OmlxAgent < Formula
   desc "MLX Isolated Agent Stack CLI"
   homepage "https://github.com/aarogozin/mlx-to-isolated-hermes"
-  version "0.5.14"
-  url "https://github.com/aarogozin/mlx-to-isolated-hermes/releases/download/v0.5.14/omlx-agent-v0.5.14-darwin-arm64.tar.gz"
-  sha256 "a21891e5240ef1d092ade06a9f2ec7e85c926d6ba0dc2bbe0925b0135d0c18f3"
+  version "0.5.15"
+  url "https://github.com/aarogozin/mlx-to-isolated-hermes/releases/download/v0.5.15/omlx-agent-v0.5.15-darwin-arm64.tar.gz"
+  sha256 "40de5724e22ae8d6dafca882ae108a384af177cfa4b3c2c12ba10458a9641299"
   license "MIT"
 
   def install
